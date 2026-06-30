@@ -24,7 +24,7 @@
 I work on **inference-time LLM adaptation** and **representation engineering** — making language models steerable and adaptable without retraining.
 
 > **Steer2Adapt: Dynamically Composing Steering Vectors for Efficient LLM Adaptation**
-> *Accepted at the **ICLR 2026** Re-Align Workshop · under review at **ICML 2026*** · [arXiv:2602.07276](https://arxiv.org/abs/2602.07276)
+> *Accepted at the **ICLR 2026** Re-Align Workshop · under review at **NeurIPS 2026*** · [arXiv:2602.07276](https://arxiv.org/abs/2602.07276)
 > A compositional activation-steering framework that adapts LLMs at inference time via Bayesian optimization over a semantic prior subspace — **~8% gains across 9 tasks and 3 models** (Llama-3.1, Qwen-2.5, Mistral), no fine-tuning required.
 
 ### 🚀 Featured Projects
