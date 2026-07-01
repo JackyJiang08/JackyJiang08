@@ -1,9 +1,4 @@
-<h1 align="center">Yuqing (Jacky) Jiang</h1>
-
-<p align="center">
-  <b>Quantitative AI · Data Analytics · ML</b><br>
-  CS + Statistics @ University of Illinois Urbana-Champaign (B.S. '27) · Open to Relocate
-</p>
+<h1 align="center">Hi, I'm Jacky 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuqing-jiang-b41719281/">
@@ -14,56 +9,37 @@
   </a>
 </p>
 
-> Data-driven problem solver bridging **quantitative methods, analytics, and applied ML** —
-> turning messy, multi-source data into decisions that move real metrics. Comfortable
-> end-to-end: **SQL & dashboards → ML models → LLM-powered automation.**
+I'm **Yuqing (Jacky) Jiang**, a Computer Science + Statistics student at the **University of Illinois Urbana-Champaign** (B.S. '27, GPA 3.91). I like working where **quantitative methods, data, and applied ML** meet — taking messy, multi-source data all the way from `SQL & dashboards` → `ML models` → `LLM-powered systems`, and caring about the decisions it drives, not just the numbers.
 
----
-
-### 🎓 Education
-**University of Illinois Urbana-Champaign** · B.S. Computer Science + Statistics · 2023–2027 · GPA 3.91 / 4.0
-
-### 💼 Experience
-
-**Quantitative AI Intern** — *PFPA* · Jun 15 – Aug 3, 2026
-- Applying quantitative & AI methods to financial / trading data
-
-**Marketing Analytics & Strategy Intern** — *Earnest Agriculture* · Jan 2026–Present
-- Boosted organic blog traffic **+40%** and drove **+14% YoY** organic sales through SEO and demand analysis (Ahrefs, Google Trends)
-
-**Data Analyst Intern** — *SeeU International* · Sep–Nov 2025
-- Lifted student engagement **+15%**; parsed 15 large-scale datasets into 10+ KPIs using SQL window functions & CTEs
-
-**Operations & Analytics Intern** — *Walt Disney Company* · Jun–Aug 2025
-- Forecasted demand from POS/attendance data (30K+ visitors, $150K+ sales), **cutting stockouts 40%**
-
-**Data Analyst Intern** — *DP World* · May–Aug 2024
-- Automated data pipelines (Power Automate, UiPath) for **−25% manual effort**; built 4 Power BI dashboards for 50+ managers
+### 🔭 What I'm working on now
+- **Quantitative AI Intern @ PFPA** — applying quantitative & AI methods to financial / trading data *(Summer 2026)*
+- **[ScribeAR](https://github.com/scribear/scribear)** — building an open-source real-time speech **transcription & captioning** platform for accessibility, with **Prof. Lawrence Angrave** (UIUC)
 
 ### 🔬 Research
-
-**Steer2Adapt: Dynamically Composing Steering Vectors for Efficient LLM Adaptation** · *Co-author, with Prof. Jiaxuan You (UIUC)*
+**Steer2Adapt: Dynamically Composing Steering Vectors for Efficient LLM Adaptation** — *co-author, with Prof. Jiaxuan You (UIUC)*
 Accepted at the **ICLR 2026** Re-Align Workshop · under review at **NeurIPS 2026** · [arXiv:2602.07276](https://arxiv.org/abs/2602.07276)
-A compositional activation-steering framework that adapts LLMs at inference time via Bayesian optimization over a semantic prior subspace — **~8% gains across 9 tasks and 3 models** (Llama-3.1, Qwen-2.5, Mistral), no fine-tuning.
+> A compositional activation-steering framework that adapts LLMs at inference time via Bayesian optimization over a semantic prior subspace — **~8% gains across 9 tasks and 3 models**, with no fine-tuning.
 
-**[ScribeAR](https://github.com/scribear/scribear)** · *with Prof. Lawrence Angrave (UIUC)* · ongoing
-Open-source real-time speech **transcription & captioning** platform for accessibility — multi-app TypeScript frontend + a Python ASR transcription service (CUDA/CPU).
+### 💼 Where I've interned
+Along the way I've done data & analytics across finance, operations, and marketing — always trying to turn data into something that moves a real metric:
+- **Earnest Agriculture** — Marketing Analytics & Strategy · organic traffic **+40%**, YoY sales **+14%**
+- **SeeU International** — Data Analyst · engagement **+15%**, 10+ KPIs from 15 datasets (SQL windows & CTEs)
+- **Walt Disney Company** — Operations & Analytics · demand forecasting on 30K+ visitors, stockouts **−40%**
+- **DP World** — Data Analyst · pipeline automation **−25% manual effort**, 4 Power BI dashboards for 50+ managers
 
-### 🚀 Projects
-
-| Project | Highlights |
+### 🚀 A few things I've built
+| Project | What it does |
 | --- | --- |
 | **[AI-Monitor-Platform](https://github.com/JackyJiang08/AI-Monitor-Platform)** | Real-time dashboard tracking AI-industry news, regulations & market impact (Next.js + LLM pipeline) |
 | **[Market-Data-Toolkit](https://github.com/JackyJiang08/market-data-toolkit)** | Equity & macro-rate market-data pipeline (Yahoo Finance + FRED / Fed H.15) |
-| **Credit-Card Fraud Detection** | CatBoost / XGBoost with SMOTE — **F1 > 0.88**, false-positive rate < 5% on imbalanced data |
+| **Credit-Card Fraud Detection** | CatBoost / XGBoost with SMOTE — **F1 > 0.88**, false-positive rate < 5% |
 | **Multi-Agent AI Platform** | LangChain + CrewAI workflows automating reporting & approvals — **−60% manual time** |
 
-### 🛠️ Skills
+### 🛠️ Tools I reach for
+**Data & Analytics:** `SQL` · `Power BI` · `Tableau` · `Python (Pandas / NumPy)`
+**ML / AI:** `PyTorch` · `Scikit-learn` · `XGBoost` · `LangChain` · `RAG` · `PEFT`
+**Web & Automation:** `Next.js` · `React` · `FastAPI` · `n8n`
 
-**Data & Analytics:** `SQL` · `Power BI` · `Tableau` · `Python (Pandas / NumPy / Matplotlib)`
-**ML / AI:** `Scikit-learn` · `XGBoost` · `CatBoost` · `PyTorch` · `LangChain` · `RAG` · `PEFT`
-**Web & Automation:** `Next.js` · `React` · `FastAPI` · `Power Automate` · `n8n`
+---
 
-### 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/yuqing-jiang-b41719281/) · jiangyuqing0508@outlook.com
+<p align="center"><i>When I'm not coding: ⚾ baseball · 🎾 tennis · 🔭 astronomy · 📷 photography · 🎵 music</i></p>
