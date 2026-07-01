@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am **Yuqing (Jacky) Jiang**, an undergraduate at the **University of Illinois Urbana-Champaign**, majoring in **Computer Science + Statistics** (B.S. '27). My interests sit at the intersection of **data, AI, and machine learning** — from analytics and ML models to **LLMs** and **agentic systems** — and I care most about the decisions the data drives, not just the numbers.
+I am **Yuqing (Jacky) Jiang**, an undergraduate at the **University of Illinois Urbana-Champaign**, majoring in **Computer Science + Statistics** (B.S. '27). My interests sit at the intersection of **data, AI, and machine learning** — from analytics and ML models to LLMs and agentic systems.
 
 ### 💼 Experience
 
-* **Quantitative AI Intern** — *PFPA* · Jun – Aug 2026
+* **Quantitative AI Intern** — *PFPA Financial* · Jun – Aug 2026
 * **Marketing Analytics & Strategy Intern** — *Earnest Agriculture* · Jan – May 2026
 * **Data Analyst Intern** — *SeeU International* · Sep – Nov 2025
 * **Operations & Analytics Intern** — *Walt Disney Company* · Jun – Aug 2025
