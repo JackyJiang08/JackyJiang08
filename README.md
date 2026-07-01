@@ -1,45 +1,15 @@
-<h1 align="center">Hi, I'm Jacky 👋</h1>
+### Hi there 👋
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yuqing-jiang-b41719281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:jiangyuqing0508@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?logo=maildotru&logoColor=white" alt="Email"/>
-  </a>
-</p>
+I am **Yuqing (Jacky) Jiang**. I am currently an undergraduate at the **University of Illinois Urbana-Champaign**, majoring in **Computer Science + Statistics** (B.S. '27).
 
-I'm **Yuqing (Jacky) Jiang**, a Computer Science + Statistics student at the **University of Illinois Urbana-Champaign** (B.S. '27, GPA 3.91). I like working where **quantitative methods, data, and applied ML** meet — taking messy, multi-source data all the way from `SQL & dashboards` → `ML models` → `LLM-powered systems`, and caring about the decisions it drives, not just the numbers.
+This summer, I am a **Quantitative AI Intern at PFPA**, applying quantitative and AI methods to financial and trading data. I am also working with **Prof. Lawrence Angrave** at UIUC on [**ScribeAR**](https://github.com/scribear/scribear), an open-source real-time speech **transcription and captioning** platform for accessibility.
 
-### 🔭 What I'm working on now
-- **Quantitative AI Intern @ PFPA** — applying quantitative & AI methods to financial / trading data *(Summer 2026)*
-- **[ScribeAR](https://github.com/scribear/scribear)** — building an open-source real-time speech **transcription & captioning** platform for accessibility, with **Prof. Lawrence Angrave** (UIUC)
+On the research side, I am a co-author of **Steer2Adapt**, advised by [Prof. Jiaxuan You](https://cs.stanford.edu/~jiaxuan/) — a framework for efficient, inference-time **LLM adaptation** that dynamically composes semantic steering vectors via Bayesian optimization, achieving consistent gains across tasks and models without any fine-tuning. The work was accepted at the **ICLR 2026 Re-Align Workshop** and is currently under review at **NeurIPS 2026** ([arXiv:2602.07276](https://arxiv.org/abs/2602.07276)).
 
-### 🔬 Research
-**Steer2Adapt: Dynamically Composing Steering Vectors for Efficient LLM Adaptation** — *co-author, with Prof. Jiaxuan You (UIUC)*
-Accepted at the **ICLR 2026** Re-Align Workshop · under review at **NeurIPS 2026** · [arXiv:2602.07276](https://arxiv.org/abs/2602.07276)
-> A compositional activation-steering framework that adapts LLMs at inference time via Bayesian optimization over a semantic prior subspace — **~8% gains across 9 tasks and 3 models**, with no fine-tuning.
+Before this, I interned in **data and analytics** roles across finance, operations, and marketing — at the **Walt Disney Company**, **DP World**, **SeeU International**, and **Earnest Agriculture** — where I built forecasting models, interactive dashboards, and automated data pipelines that drove measurable business outcomes (e.g., reducing stockouts by 40% and cutting manual effort by 25%).
 
-### 💼 Where I've interned
-Along the way I've done data & analytics across finance, operations, and marketing — always trying to turn data into something that moves a real metric:
-- **Earnest Agriculture** — Marketing Analytics & Strategy · organic traffic **+40%**, YoY sales **+14%**
-- **SeeU International** — Data Analyst · engagement **+15%**, 10+ KPIs from 15 datasets (SQL windows & CTEs)
-- **Walt Disney Company** — Operations & Analytics · demand forecasting on 30K+ visitors, stockouts **−40%**
-- **DP World** — Data Analyst · pipeline automation **−25% manual effort**, 4 Power BI dashboards for 50+ managers
+My interests sit at the intersection of **quantitative methods, data, and applied machine learning**. I enjoy taking messy, multi-source data all the way from analysis to models to LLM-powered systems, and I care most about the decisions the data drives — not just the numbers. If any of this resonates with your interests, feel free to reach out and let's connect or collaborate!
 
-### 🚀 A few things I've built
-| Project | What it does |
-| --- | --- |
-| **[AI-Monitor-Platform](https://github.com/JackyJiang08/AI-Monitor-Platform)** | Real-time dashboard tracking AI-industry news, regulations & market impact (Next.js + LLM pipeline) |
-| **[Market-Data-Toolkit](https://github.com/JackyJiang08/market-data-toolkit)** | Equity & macro-rate market-data pipeline (Yahoo Finance + FRED / Fed H.15) |
-| **Credit-Card Fraud Detection** | CatBoost / XGBoost with SMOTE — **F1 > 0.88**, false-positive rate < 5% |
-| **Multi-Agent AI Platform** | LangChain + CrewAI workflows automating reporting & approvals — **−60% manual time** |
+You can find more about me on my [LinkedIn](https://www.linkedin.com/in/yuqing-jiang-b41719281/). I'm always open to new opportunities and collaborations — please feel free to email me at **jiangyuqing0508@outlook.com**.
 
-### 🛠️ Tools I reach for
-**Data & Analytics:** `SQL` · `Power BI` · `Tableau` · `Python (Pandas / NumPy)`
-**ML / AI:** `PyTorch` · `Scikit-learn` · `XGBoost` · `LangChain` · `RAG` · `PEFT`
-**Web & Automation:** `Next.js` · `React` · `FastAPI` · `n8n`
-
----
-
-<p align="center"><i>When I'm not coding: ⚾ baseball · 🎾 tennis · 🔭 astronomy · 📷 photography · 🎵 music</i></p>
+[Last Update: 07/2026]
